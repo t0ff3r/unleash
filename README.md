@@ -1,6 +1,3 @@
-unleash
-=======
+# (unleash)[http://finn-no.github.io/unleash/]
 
-feature toggle server + clients
-
-http://finn-no.github.io/unleash/
+feature toggle service
